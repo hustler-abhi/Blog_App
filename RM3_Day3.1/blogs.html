@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            margin:0
+        }
+        #navbar{
+            display: flex;
+            justify-content: space-around;
+            background-color: rgb(24, 58, 24);
+            color: aliceblue;
+            padding:20px;
+        }
+        #navbar a{
+            color:white;
+            text-decoration: none;
+            font-family: sans-serif;
+        }
+        /* #header{
+            margin-left: 670px;
+            margin-top: 20px;
+            font-family: sans-serif;
+        } */
+        #container{
+            display: grid;
+            grid-template-columns: repeat(2,1fr);
+            gap:30px;
+            width:90%;
+            margin: auto;
+            margin-top: 50px;
+        }
+        #container div{
+            width:50%;
+            border:0px solid red;
+            margin: auto;
+            padding:20px;
+            box-shadow: 2px 2px 2px 2px gray;
+        }
+        #chinu{
+            display: flex;
+            justify-content: space-around;
+            background-color: greenyellow;
+            color: black;
+            padding:20px;
+        }
+        #create{
+            padding: 10px;
+            background-color: rgb(30, 30, 61);
+            color: aliceblue;
+            font-size: 17px;
+            border-radius: 20px;
+        }
+        #edittBtn{
+            padding:7px 24px;
+            margin-top: 15px;
+            font-family: sans-serif;
+            font-size: 15px;
+            border-radius: 20px;
+        }
+        #edittBtn:hover{
+            background-color: brown;
+            color: azure;
+        }
+        #deleetBtn{
+            padding:7px 24px;
+            margin-top: 15px;
+            margin-left: 20px;
+            font-family: sans-serif;
+            font-size: 15px;
+            border-radius: 20px;
+            
+        }
+        #deleetBtn:hover{
+            background-color: brown;
+            color: azure;
+        }
+        #like{
+            width:5%;
+            margin-left: 80px;
+        }
+        #comment{
+            width:6%;
+            margin-left: 20px;
+        }
+        #num{
+             margin-left: 60px;
+        }
+        #combine{
+            display: flex;
+        }
+    </style>
+</head>
+<body>
+    <div id="navbar">
+        <a href="index.html"><h3>Signup</h3></a>
+        <a href="signin.html"><h3>Signin</h3></a>
+        <a href="blogs.html"><h3>Blogs Page</h3></a>
+        <a href="addblog.html"><h3>Add Blog Page</h3></a>
+        <a href="leaderboard.html"><h3>Leaderboard Page</h3></a>
+    </div>
+
+    <div id="chinu">
+        <h2 id="header">Blogs</h2>
+        <a href="addblog.html"><button id="create">Create Blog</button></a>
+    </div>
+
+    <div>
+        <input type="search" id="search" placeholder="search blogs here" oninput="debounce(search,1000)"/>
+
+        <select id="filter_category">
+            <option value="">Select Category</option>
+            <option value="tech">Tech</option>
+            <option value="lifestyle">Lifestyle</option>
+            <option value="entertainment">Entertainment</option>
+        </select>
+
+        <select id="sort_by_date">
+            <option value="">select Order</option>
+            <option value="LowtoHigh">Sort Asc by date</option>
+            <option value="HightoLow">Sort Desc by date</option>
+        </select>
+    </div>
+
+
+   <div id="combine">
+    <div id="container">
+        <!-- append all blogs here -->
+    </div>
+    <div id="commentblock">
+
+    </div>
+</div>
+
+    <div id="buttons"> </div>
+</body>
+</html>
+
+<script src="blogs.js">
+
+</script>

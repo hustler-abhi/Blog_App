@@ -1,0 +1,216 @@
+{
+  "users": [
+    {
+      "name": "Revati Junghare",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKpebiXZUYDI2ntXXFgdCM1OmK54zWl3H4GA&usqp=CAU",
+      "email": "jungharerevati804@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "name": "",
+      "image": "",
+      "email": "",
+      "password": "",
+      "id": 2
+    },
+    {
+      "name": "",
+      "image": "",
+      "email": "",
+      "password": "",
+      "id": 3
+    },
+    {
+      "name": "riya",
+      "image": "https://www.goodmorninghdloveimages.com/wp-content/uploads/2021/10/Whatsapp-Dp-Princess-Cute-Doll-Images-3.jpg",
+      "email": "riya@gmail.com",
+      "password": "1234",
+      "id": 4
+    },
+    {
+      "name": "ketaki",
+      "image": "https://www.goodmorninghdloveimages.com/wp-content/uploads/2021/10/Whatsapp-Dp-Princess-Cute-Doll-Images-3.jpg",
+      "email": "ketaki@gmail.com",
+      "password": "2345",
+      "id": 5
+    },
+    {
+      "name": "chinu",
+      "image": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/16498696/2022/4/13/6b6fe057-353a-4f87-848a-3e2933fd38511649828271288DukieKookyKidsRedSoftDoll1.jpg",
+      "email": "chinu@gmail.com",
+      "password": "1234",
+      "id": 6
+    },
+    {
+      "name": "rucha",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJy_CGgA5hreNuqGI7QVq-p1xG-285ZxTdbQ&usqp=CAU",
+      "email": "rucha@gmail.com",
+      "password": "1234",
+      "id": 7
+    },
+    {
+      "name": "jyoti",
+      "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bGFwdG9wc3xlbnwwfHwwfHw%3D&w=1000&q=80",
+      "email": "jyoti@gmail.com",
+      "password": "1234",
+      "id": 8
+    },
+    {
+      "name": "ketaki",
+      "image": "https://www.goodmorninghdloveimages.com/wp-content/uploads/2021/10/Whatsapp-Dp-Princess-Cute-Doll-Images-3.jpg",
+      "email": "jungharerevati804@gmail.com",
+      "password": "1234",
+      "id": 9
+    },
+    {
+      "name": "Rina",
+      "image": "https://www.goodmorninghdloveimages.com/wp-content/uploads/2021/10/Whatsapp-Dp-Princess-Cute-Doll-Images-3.jpg",
+      "email": "rina@gmail.com",
+      "password": "1234",
+      "id": 10
+    },
+    {
+      "name": "abhishek",
+      "image": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/16498696/2022/4/13/6b6fe057-353a-4f87-848a-3e2933fd38511649828271288DukieKookyKidsRedSoftDoll1.jpg",
+      "email": "abhi@gmail.com",
+      "password": "2345",
+      "id": 11
+    },
+    {
+      "name": "reva",
+      "image": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/16498696/2022/4/13/6b6fe057-353a-4f87-848a-3e2933fd38511649828271288DukieKookyKidsRedSoftDoll1.jpg",
+      "email": "jungharerevati804@gmail.com",
+      "password": "1234",
+      "id": 12
+    },
+    {
+      "name": "Revati Junghare",
+      "image": "https://www.goodmorninghdloveimages.com/wp-content/uploads/2021/10/Whatsapp-Dp-Princess-Cute-Doll-Images-3.jpg",
+      "email": "jungharerevati804@gmail.com",
+      "password": "1234",
+      "id": 13
+    },
+    {
+      "name": "abhishek",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJy_CGgA5hreNuqGI7QVq-p1xG-285ZxTdbQ&usqp=CAU",
+      "email": "asd@gmail.com",
+      "password": "1234",
+      "id": 14
+    }
+  ],
+  "blogs": [
+    {
+      "name": "ketaki",
+      "title": "Trees",
+      "content": "Music can raise someone's mood, get them excited, or make them calm and relaxed. Music also - and this is important - allows us to feel nearly or possibly all emotions that we experience in our lives. The possibilities are endless.",
+      "category": "lifestyle",
+      "date": "2023-03-16",
+      "id": 2
+    },
+    {
+      "name": "jyoti",
+      "title": "water",
+      "content": "Water is an inorganic compound with the chemical formula H₂O. It is a transparent, tasteless, odorless, and nearly colorless chemical substance, and it is the main constituent of Earth's hydrosphere and the fluids of all known living organisms. ",
+      "category": "lifestyle",
+      "date": "2023-03-18",
+      "id": 3
+    },
+    {
+      "name": "Rina",
+      "title": "dnskdfjnsd",
+      "content": "Enter Content here..",
+      "category": "tech",
+      "date": "2023-03-22",
+      "id": 4
+    },
+    {
+      "name": "reva",
+      "title": "water",
+      "content": "Enter Content here..",
+      "category": "lifestyle",
+      "date": "2023-03-17",
+      "id": 5
+    },
+    {
+      "name": "reva",
+      "title": "river",
+      "content": "Enter Content here..",
+      "category": "entertainment",
+      "date": "2023-03-18",
+      "id": 6
+    },
+    {
+      "name": "reva",
+      "title": "air",
+      "content": "Enter Content here..",
+      "category": "tech",
+      "date": "2023-03-19",
+      "id": 7
+    },
+    {
+      "name": "reva",
+      "title": "add",
+      "content": "Enter Content here..",
+      "category": "tech",
+      "date": "2023-03-20",
+      "id": 8
+    },
+    {
+      "name": "reva",
+      "title": "fffdf",
+      "content": "Enter Content here..",
+      "category": "lifestyle",
+      "date": "2023-03-21",
+      "id": 9
+    },
+    {
+      "name": "Revati Junghare",
+      "title": "water",
+      "content": "Water is an inorganic compound with the chemical formula H₂O. It is a transparent, tasteless, odorless, and nearly colorless chemical substance, and it is the main constituent of Earth's hydrosphere and the fluids of all known living organisms. ",
+      "category": "lifestyle",
+      "date": "2023-03-18",
+      "id": 10
+    },
+    {
+      "name": "Revati Junghare",
+      "title": "air",
+      "content": "Air is the invisible mixture of gases that surrounds Earth. Air contains important substances, such as oxygen and nitrogen, that most species need to survive. Human beings (Homo sapiens), of course, are one of those species. Sometimes, the word \"atmosphere\" is used instead of the word \"air.\"",
+      "category": "tech",
+      "date": "2023-03-19",
+      "id": 11
+    },
+    {
+      "name": "Revati Junghare",
+      "title": "electronics",
+      "content": "Electronics is a branch of Physics that deals with the theory and use of devices in which the electrons travel through a vacuum, gas, or a semiconductor medium. The motion of electrons takes place under the influence of applied electric and/or magnetic fields.",
+      "category": "entertainment",
+      "date": "2023-03-21",
+      "id": 12
+    },
+    {
+      "name": "Revati Junghare",
+      "title": "music",
+      "content": "Music can raise someone's mood, get them excited, or make them calm and relaxed. Music also - and this is important - allows us to feel nearly or possibly all emotions that we experience in our lives. The possibilities are endless.",
+      "category": "tech",
+      "date": "2023-03-23",
+      "id": 13
+    },
+    {
+      "name": "Revati Junghare",
+      "title": "soil",
+      "content": "Soil is the loose surface material that covers most land. It consists of inorganic particles and organic matter. Soil provides the structural support to plants used in agriculture and is also their source of water and nutrients",
+      "category": "lifestyle",
+      "date": "2023-03-25",
+      "id": 14
+    },
+    {
+      "name": "abhishek",
+      "title": "hjhdjsb",
+      "content": "sadhajsbddscddddddddddddddddd",
+      "category": "lifestyle",
+      "date": "2023-03-23",
+      "id": 15
+    }
+  ]
+}
